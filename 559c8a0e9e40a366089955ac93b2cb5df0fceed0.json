@@ -1,0 +1,444 @@
+[
+  {
+    "refs": [
+      "tag: 1.3_RC",
+      "origin/release/1.3",
+      "release/1.3"
+    ],
+    "hash": "a5db41d2ff3c6f7099b53dceeb6478b8b81faca6",
+    "hashAbbrev": "a5db41d",
+    "tree": "171e152d155aa3c7d86c984d15659311b840879a",
+    "treeAbbrev": "171e152",
+    "parents": [
+      "5a48458140cc3f819c50d70f471e17ed9416793d"
+    ],
+    "parentsAbbrev": [
+      "5a48458"
+    ],
+    "author": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591808152000
+    },
+    "committer": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591808152000
+    },
+    "subject": "Bug fix 1.3.2 on 1.3",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 1,
+        "deletions": 0,
+        "file": "README.md"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "5a48458140cc3f819c50d70f471e17ed9416793d",
+    "hashAbbrev": "5a48458",
+    "tree": "617f49c536119bd67bf087d58611e1377a914d37",
+    "treeAbbrev": "617f49c",
+    "parents": [
+      "828aa32390dab229ca6aec027dcb179e23da73ff"
+    ],
+    "parentsAbbrev": [
+      "828aa32"
+    ],
+    "author": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591808119000
+    },
+    "committer": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591808119000
+    },
+    "subject": "Bug fix 1.3.1 on 1.3",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 1,
+        "deletions": 0,
+        "file": "README.md"
+      }
+    ]
+  },
+  {
+    "refs": [
+      "HEAD",
+      "develop",
+      "origin/develop"
+    ],
+    "hash": "559c8a0e9e40a366089955ac93b2cb5df0fceed0",
+    "hashAbbrev": "559c8a0",
+    "tree": "d4addbfc2cfb2e4ca9492a4e821c9cc9b135d38d",
+    "treeAbbrev": "d4addbf",
+    "parents": [
+      "828aa32390dab229ca6aec027dcb179e23da73ff"
+    ],
+    "parentsAbbrev": [
+      "828aa32"
+    ],
+    "author": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591807437000
+    },
+    "committer": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591807437000
+    },
+    "subject": "Bug fix 2345 on develop past 1.2 merge",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 1,
+        "deletions": 0,
+        "file": "README.md"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "828aa32390dab229ca6aec027dcb179e23da73ff",
+    "hashAbbrev": "828aa32",
+    "tree": "839017ebb09442df889494e483788e4d09bd0601",
+    "treeAbbrev": "839017e",
+    "parents": [
+      "d36c962e45c092761630e38e936f04b3f7c8a799"
+    ],
+    "parentsAbbrev": [
+      "d36c962"
+    ],
+    "author": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591807375000
+    },
+    "committer": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591807375000
+    },
+    "subject": "Bug fix on develop past 1.2 merge",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 1,
+        "deletions": 0,
+        "file": "README.md"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "d36c962e45c092761630e38e936f04b3f7c8a799",
+    "hashAbbrev": "d36c962",
+    "tree": "d9da799c28f384486fd6ee78c79b57441e8e85f6",
+    "treeAbbrev": "d9da799",
+    "parents": [
+      "18dd45a78b04fc03943b37432d02e2215b5df5ab",
+      "183c5ab151b0528001f430a2e39c74a3e94f9965"
+    ],
+    "parentsAbbrev": [
+      "18dd45a",
+      "183c5ab"
+    ],
+    "author": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591807299000
+    },
+    "committer": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591807299000
+    },
+    "subject": "Merge branch 'release/1.2' into develop",
+    "body": "",
+    "notes": "",
+    "stats": []
+  },
+  {
+    "refs": [],
+    "hash": "18dd45a78b04fc03943b37432d02e2215b5df5ab",
+    "hashAbbrev": "18dd45a",
+    "tree": "9cd7f2c2f400c8e12686a7100d9fb8f360c164e3",
+    "treeAbbrev": "9cd7f2c",
+    "parents": [
+      "169b04721565e677e34a67cb113a7bd05b32bc06"
+    ],
+    "parentsAbbrev": [
+      "169b047"
+    ],
+    "author": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591807217000
+    },
+    "committer": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591807217000
+    },
+    "subject": "Fourth commit on develop not on 1.2",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 1,
+        "deletions": 0,
+        "file": "README.md"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "169b04721565e677e34a67cb113a7bd05b32bc06",
+    "hashAbbrev": "169b047",
+    "tree": "f296a119d2e085303055a9673aae7ae6f57ecc3b",
+    "treeAbbrev": "f296a11",
+    "parents": [
+      "61689723a6b5dc344213f3e8047ce430b5bcee3b"
+    ],
+    "parentsAbbrev": [
+      "6168972"
+    ],
+    "author": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591807183000
+    },
+    "committer": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591807183000
+    },
+    "subject": "Third commit on develop not on 1.2",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 1,
+        "deletions": 0,
+        "file": "README.md"
+      }
+    ]
+  },
+  {
+    "refs": [
+      "tag: 1.2_RC",
+      "origin/release/1.2",
+      "release/1.2"
+    ],
+    "hash": "183c5ab151b0528001f430a2e39c74a3e94f9965",
+    "hashAbbrev": "183c5ab",
+    "tree": "31f1095ad5a03418f2751a42e948f3db0c7c1248",
+    "treeAbbrev": "31f1095",
+    "parents": [
+      "eb7655cfdb2ed3b17fae9832830ebb856444254f"
+    ],
+    "parentsAbbrev": [
+      "eb7655c"
+    ],
+    "author": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591807086000
+    },
+    "committer": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591807086000
+    },
+    "subject": "Bug fix 1.2.3 on 1.2",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 1,
+        "deletions": 0,
+        "file": "README.md"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "eb7655cfdb2ed3b17fae9832830ebb856444254f",
+    "hashAbbrev": "eb7655c",
+    "tree": "01d8edd3d2b7859b29e9bb710566e239ee2de119",
+    "treeAbbrev": "01d8edd",
+    "parents": [
+      "32f6e86a522b348733feeb707c42c99599acb045"
+    ],
+    "parentsAbbrev": [
+      "32f6e86"
+    ],
+    "author": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591807044000
+    },
+    "committer": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591807044000
+    },
+    "subject": "Bug fix 1.2.2 on 1.2",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 1,
+        "deletions": 0,
+        "file": "README.md"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "32f6e86a522b348733feeb707c42c99599acb045",
+    "hashAbbrev": "32f6e86",
+    "tree": "5affba8babac44bd3629a6eaea7bb399fac1f6a5",
+    "treeAbbrev": "5affba8",
+    "parents": [
+      "61689723a6b5dc344213f3e8047ce430b5bcee3b"
+    ],
+    "parentsAbbrev": [
+      "6168972"
+    ],
+    "author": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591806992000
+    },
+    "committer": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591806992000
+    },
+    "subject": "Bug fix 1.2.1 on 1.2",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 1,
+        "deletions": 0,
+        "file": "README.md"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "61689723a6b5dc344213f3e8047ce430b5bcee3b",
+    "hashAbbrev": "6168972",
+    "tree": "1a87114e3cc1eae466504b038cd0d99b075f9269",
+    "treeAbbrev": "1a87114",
+    "parents": [
+      "6030d65e7687f0bc9193e4f80dc1e03f4964afa2"
+    ],
+    "parentsAbbrev": [
+      "6030d65"
+    ],
+    "author": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591806841000
+    },
+    "committer": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591806841000
+    },
+    "subject": "Second commit on develop",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 1,
+        "deletions": 0,
+        "file": "README.md"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "6030d65e7687f0bc9193e4f80dc1e03f4964afa2",
+    "hashAbbrev": "6030d65",
+    "tree": "03aab6eab956ae8aa0a676eda7e4a5c1d01602cb",
+    "treeAbbrev": "03aab6e",
+    "parents": [
+      "1d88ecf0ba9b1ddb70cafda8ab3cd34ad5727153"
+    ],
+    "parentsAbbrev": [
+      "1d88ecf"
+    ],
+    "author": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591806814000
+    },
+    "committer": {
+      "name": "btoth",
+      "email": "balazs.toth@checkit.net",
+      "timestamp": 1591806814000
+    },
+    "subject": "First commit on develop",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 1,
+        "deletions": 0,
+        "file": "README.md"
+      }
+    ]
+  },
+  {
+    "refs": [
+      "origin/master",
+      "origin/HEAD",
+      "master"
+    ],
+    "hash": "1d88ecf0ba9b1ddb70cafda8ab3cd34ad5727153",
+    "hashAbbrev": "1d88ecf",
+    "tree": "7611a8f7cfd970698434e271d2544669ba56f7c0",
+    "treeAbbrev": "7611a8f",
+    "parents": [],
+    "parentsAbbrev": [],
+    "author": {
+      "name": "Tóth, Balázs",
+      "email": "balazs@toth.onl",
+      "timestamp": 1591806648000
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "timestamp": 1591806648000
+    },
+    "subject": "Initial commit",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 85,
+        "deletions": 0,
+        "file": ".gitignore"
+      },
+      {
+        "additions": 2,
+        "deletions": 0,
+        "file": "README.md"
+      }
+    ]
+  }
+]
