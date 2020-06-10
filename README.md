@@ -14,3 +14,4 @@ Bug fix  1.3.1 on 1.3
 Bug fix  1.3.2 on 1.3
 USERIF-9999
 Bug fix 1.3.3
+Bug fix on develop past 1.3 merge
