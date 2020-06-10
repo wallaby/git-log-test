@@ -11,4 +11,6 @@ Git merge 1.2 to develop
 Bug fix 1234 on evelop
 Bug fix 2345 on develop
 Bug fix  1.3.1 on 1.3
+Bug fix  1.3.2 on 1.3
 USERIF-9999
+Bug fix 1.3.3
